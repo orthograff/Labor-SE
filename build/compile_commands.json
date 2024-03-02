@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/Labor-SE/build",
+  "command": "/usr/bin/gcc   -g   -Wall -Wextra -pedantic -O0 -std=gnu11 -o CMakeFiles/cmake_example_exec.dir/cmake.c.o   -c /workspaces/Labor-SE/cmake.c",
+  "file": "/workspaces/Labor-SE/cmake.c"
+}
+]

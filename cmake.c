@@ -8,10 +8,10 @@ int main() {
     scanf("%d", &muendlicheNote);
 
     printf("Bitte gib die Note der schriftlichen Pruefung ein: ");
-    scanf("%d", &schriftlicheNote);
+    schriftlicheNote = 8;
 
     printf("Bitte gib die Note der praktischen Pruefung ein: ");
-    scanf("%d", &praktischeNote);
+    praktischeNote = 11;
 
     // Berechnung der Gesamtnote
     gesamtnote = (2 * muendlicheNote + schriftlicheNote + 3 * praktischeNote) / 6.0;
